@@ -1,1 +1,1 @@
-# Privacy Policy
+# Lapstat - Privacy policy
