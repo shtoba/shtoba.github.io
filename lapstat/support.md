@@ -8,4 +8,4 @@
 - [プライバシーポリシー (日本語)](jp/PrivacyPolicy.md)
 
 # Contact
-- toba.shuhei@gmail.com
+- [Shuhei Toba](toba.shuhei@gmail.com)
