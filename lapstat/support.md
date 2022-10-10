@@ -1,5 +1,5 @@
 # User Manual
-- [User Manual (English)](/en/Manual)
+- [User Manual (English)](/en/Manual.md)
 - [使い方(日本語)](https://shtoba.github.io/lapstat/jp/Manual)
 
 # Privacy Policy
