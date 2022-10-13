@@ -9,6 +9,7 @@
     - [Charts](https://github.com/danielgindi/Charts)
     - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)
     - [CocoaPods](https://cocoapods.org/)
+    - [Google Mobile Ads SDK](https://developers.google.com/admob/ios/quick-start)
 
 # Privacy Policy
 - [Privacy Policy (English)](en/PrivacyPolicy.md)
