@@ -11,8 +11,8 @@
     - [CocoaPods](https://cocoapods.org/)
     - [Google Mobile Ads SDK](https://developers.google.com/admob/ios/quick-start)
 
-# Privacy Policy
-- [Privacy Policy (English)](en/PrivacyPolicy.md)
+# Privacy policy
+- [Privacy policy (English)](en/PrivacyPolicy.md)
 - [プライバシーポリシー (日本語)](jp/PrivacyPolicy.md)
 
 # Contact
