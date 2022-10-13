@@ -1,3 +1,11 @@
 # Lapstat - Privacy policy
 - We do not collect your personal information.
-- We do not share your personal information with any third parties, with the exception of the in-app purchase. The in-app purchase is processed within the App Store, and we do not have access to the data you provided for the purchase.
+- We do not share your personal information with any third parties, with the exception for the in-app purchase and Google AdMob.
+  - The in-app purchase is processed within the App Store, and we do not have access to the data you provided for the purchase.
+  - Google AdMob collects the following information to improve the performance of AdMob.
+    - IP address, which may be used to estimate the general location of a device.
+    - Non-user related crash logs, which may be used to diagnose problems and improve the SDK. Diagnostic information may also be used for advertising and analytics purposes.
+    - User-associated performance data such as app launch time, hang rate, or energy usage, which may be used to evaluate user behavior, understand the effectiveness of existing product features, and plan new features. Performance data may also be used for displaying ads, including sharing with other entities that display ads.
+    - A Device ID such as the device's advertising identifier or other app-bounded device identifiers, which may be used for the purpose of third-party advertising and analytics.
+    - Advertising data, such as advertisements the user has seen, may be used to power analytics and advertising features.
+    - Other user product interactions like app launch taps, and interaction information, like video views, may be used to improve advertising performance.
