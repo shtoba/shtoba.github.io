@@ -16,4 +16,4 @@
 - [プライバシーポリシー (日本語)](jp/PrivacyPolicy.md)
 
 # Contact
-- Shuhei Toba, MD. [m](m.png)
+- Shuhei Toba, MD. ![m](m.png)
